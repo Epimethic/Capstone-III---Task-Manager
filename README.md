@@ -9,6 +9,8 @@ The program stores all information in a txt file and displays the information cl
 The admin user has extra features where they can register new users and see relevant statistics based on the total
 amount of tasks and users. The admin can also generate reports which display the amount of tasks and users, the percentage of tasks completed, overdue and not complete.
 The user report shows how many tasks a user has assigned to them and provides data based on their tasks. Reports are written into the task_overview and user_overview.txt files.
+
+
 ![adding a task](https://user-images.githubusercontent.com/85319175/209415177-0c370582-979f-4f05-b6f5-40f0a8078a80.jpg)
 ![display statistics](https://user-images.githubusercontent.com/85319175/209415178-95762ccd-07e0-43ec-90ee-f3435bf96cf3.jpg)
 ![generate reports](https://user-images.githubusercontent.com/85319175/209415179-824487fd-2da8-4766-a7ad-641acf117a4b.jpg)
