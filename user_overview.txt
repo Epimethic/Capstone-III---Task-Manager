@@ -1,0 +1,39 @@
+------------------REPORT GENERATED 24/12/2022-----------------
+
+			Total number of users registered	- 4
+			Total number of tasks registered	- 4
+
+--------------------------------------------------------------
+User: admin
+
+Total number of user tasks				- 1
+Total percentage of all tasks				- 25.00%
+Total percentage of user tasks completed		- 0.00%
+Total percentage of user tasks not completed	- 100.00%
+Total percentage of user tasks overdue		- 100.00%
+--------------------------------------------------------------
+User: Epimethic
+
+Total number of user tasks				- 1
+Total percentage of all tasks				- 25.00%
+Total percentage of user tasks completed		- 0.00%
+Total percentage of user tasks not completed	- 100.00%
+Total percentage of user tasks overdue		- 0.00%
+--------------------------------------------------------------
+User: Longman
+
+Total number of user tasks				- 1
+Total percentage of all tasks				- 25.00%
+Total percentage of user tasks completed		- 0.00%
+Total percentage of user tasks not completed	- 100.00%
+Total percentage of user tasks overdue		- 0.00%
+--------------------------------------------------------------
+User: John
+
+Total number of user tasks				- 1
+Total percentage of all tasks				- 25.00%
+Total percentage of user tasks completed		- 0.00%
+Total percentage of user tasks not completed	- 100.00%
+Total percentage of user tasks overdue		- 0.00%
+
+-------------------------END OF REPORT------------------------

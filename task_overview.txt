@@ -1,0 +1,10 @@
+----------------------REPORT GENERATED 24/12/2022--------------------
+
+Total number of tasks registered:     				4
+Total number of tasks completed:     				0
+Total number of tasks not completed:				4
+Total number of tasks overdue and not completed:		1
+Total percentage of tasks not completed:				100.0%
+Total percentage of tasks overdue:					25.0%
+
+----------------------END OF REPORT----------------------------------
